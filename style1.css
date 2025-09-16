@@ -1,0 +1,19 @@
+     body{
+            background-color: azure; 
+            font-family: 'Times New Roman', Times, serif;
+            color: #45a8e1 
+        }
+     h1{  
+           text-align: center; 
+           font-size: 50px;
+        }
+    #st_list li{ 
+            background-color: rgb(194, 219, 243);
+            width: 160px;
+            margin-bottom: 10px;
+            border-left: #043c5c;
+            padding: 5px;
+            border-radius: 5px;
+            box-shadow:2px 2px 5px #45a8e1;
+
+        }
